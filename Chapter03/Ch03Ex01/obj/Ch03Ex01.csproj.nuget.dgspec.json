@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FullStackDevelopment\\BeginningCSharpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj": {}
+    "D:\\FullStackDevelopment\\BeginingCSHarpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj": {}
   },
   "projects": {
-    "D:\\FullStackDevelopment\\BeginningCSharpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj": {
+    "D:\\FullStackDevelopment\\BeginingCSHarpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FullStackDevelopment\\BeginningCSharpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj",
+        "projectUniqueName": "D:\\FullStackDevelopment\\BeginingCSHarpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj",
         "projectName": "Ch03Ex01",
-        "projectPath": "D:\\FullStackDevelopment\\BeginningCSharpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj",
+        "projectPath": "D:\\FullStackDevelopment\\BeginingCSHarpAndDotNET\\Chapter03\\Ch03Ex01\\Ch03Ex01.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FullStackDevelopment\\BeginningCSharpAndDotNET\\Chapter03\\Ch03Ex01\\obj\\",
+        "outputPath": "D:\\FullStackDevelopment\\BeginingCSHarpAndDotNET\\Chapter03\\Ch03Ex01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
